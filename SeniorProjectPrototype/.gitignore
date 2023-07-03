@@ -74,3 +74,6 @@ crashlytics-build.properties
 
 #Ignore prof files from wwise
 *.prof
+
+#ignore lighting data
+*LightingData.asset
