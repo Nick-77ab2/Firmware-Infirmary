@@ -1,0 +1,29 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2932040671	Play_Music			\Music\Play_Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	478387010	InTheLab	Music			
+	748895195	None	Music			
+	815678804	Hollow	Music			
+	2213237662	Underwater	Music			
+	2510516222	Full	Music			
+	3031913866	Amped	Music			
+	3051750219	Counter	Music			
+	3107259434	Nuetral	Music			
+	3604647259	MainMenu	Music			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	55532573	dynaAudio_MainMelody	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_MainMelody_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Counter\MainCounter\dynaAudio_MainMelody		2116864
+	81195584	mainTheme	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\mainTheme_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\InTheLab\InTheLabTheme\mainTheme		15120064
+	173839455	BGM_LVL1_05052022	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\BGM_LVL1_05052022_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\MainMenu\MainMenuTheme\BGM_LVL1_05052022		30605464
+	421149708	dynaAudio_BassLine	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_BassLine_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Nuetral\Main\dynaAudio_BassLine		2116864
+	517763713	dynaAudio_Rhythm-003	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_Rhythm-003_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Amped\MainAmped\dynaAudio_Rhythm-003		2116864
+	592913358	dynaAudio_BaseLayer	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_BaseLayer_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Nuetral\Main\dynaAudio_BaseLayer		2116864
+	878720904	dynaAudio_Rhythm-004	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_Rhythm-004_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Amped\MainAmped\dynaAudio_Rhythm-004		2116864
+	931946832	underwater	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\underwater_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Underwater\underwater\underwater		23461264
+	933972155	dynaAudio_Rhythm-002	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\dynaAudio_Rhythm-002_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Nuetral\Main\dynaAudio_Rhythm-002		2116864
+	1027694946	hollow	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\SFX\hollow_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Hollow\hollow\hollow		13647008
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{64D002F1-CECC-4A64-ACB4-50445D316314}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{64D002F1-CECC-4A64-ACB4-50445D316314}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="BGMVolume" ID="{7D83CCA8-487D-4D2A-89C7-5F313FA0BA8B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="25"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="SFXVolume" ID="{EF12372A-6D5F-4301-9A46-EBDBA49B6448}"/>
+				<GameParameter Name="MasterVolume" ID="{F2FF21F0-1617-478D-96A5-3FA38FD1344B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="100"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="MISCVolume" ID="{E2EA961C-0C8D-4051-86B7-C965B754BA55}"/>
+				<GameParameter Name="DialoguePitch" ID="{5854168C-58DB-44E5-9D54-745AFFF140C9}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

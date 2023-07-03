@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="393239870" Language="SFX" Hash="3560208909">
+			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
+			<ShortName>SFX</ShortName>
+			<Path>SFX.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1941108153" Name="Play_Crackle" ObjectPath="\Events\SFX\Play_Crackle" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="633681790" Language="SFX">
+							<ShortName>RadioCrackle.wav</ShortName>
+							<Path>SFX\RadioCrackle_38454FF4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="784403203" Name="Play_DayEnd" ObjectPath="\Events\SFX\Play_DayEnd" DurationType="OneShot" DurationMin="5." DurationMax="5.">
+					<IncludedMemoryFiles>
+						<File Id="261651573" Language="SFX">
+							<ShortName>DayEnd.wav</ShortName>
+							<Path>SFX\DayEnd_0EFB48E5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3213994200" Name="Play_DayStart" ObjectPath="\Events\SFX\Play_DayStart" DurationType="OneShot" DurationMin="5." DurationMax="5.">
+					<IncludedMemoryFiles>
+						<File Id="162910677" Language="SFX">
+							<ShortName>DayStart.wav</ShortName>
+							<Path>SFX\DayStart_400F1E20.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3778958205" Name="Play_Doorbell" ObjectPath="\Events\SFX\Play_Doorbell" DurationType="OneShot" DurationMin="3." DurationMax="3.">
+					<IncludedMemoryFiles>
+						<File Id="214544285" Language="SFX">
+							<ShortName>Shop_Doorbell_V1.wav</ShortName>
+							<Path>SFX\Shop_Doorbell_V1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4076093797" Name="Play_Drill" ObjectPath="\Events\SFX\Play_Drill" DurationType="OneShot" DurationMin="1.105" DurationMax="1.105">
+					<IncludedMemoryFiles>
+						<File Id="944764722" Language="SFX">
+							<ShortName>Drill.wav</ShortName>
+							<Path>SFX\Drill_654992D8.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2713813216" Name="Play_Error" ObjectPath="\Events\SFX\Play_Error" DurationType="OneShot" DurationMin="5.795618" DurationMax="5.795618">
+					<IncludedMemoryFiles>
+						<File Id="945095580" Language="SFX">
+							<ShortName>SelectOption.wav</ShortName>
+							<Path>SFX\SelectOption_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\SFX\Play_Footsteps" DurationType="OneShot" DurationMin="0.528333" DurationMax="0.822">
+					<IncludedMemoryFiles>
+						<File Id="4878114" Language="SFX">
+							<ShortName>Footsteps_14.wav</ShortName>
+							<Path>SFX\Footsteps_14_10C4C929.wem</Path>
+						</File>
+						<File Id="30527009" Language="SFX">
+							<ShortName>Footsteps_4.wav</ShortName>
+							<Path>SFX\Footsteps_4_10C4C929.wem</Path>
+						</File>
+						<File Id="144074960" Language="SFX">
+							<ShortName>Footsteps_9.wav</ShortName>
+							<Path>SFX\Footsteps_9_10C4C929.wem</Path>
+						</File>
+						<File Id="162946794" Language="SFX">
+							<ShortName>Footsteps_18.wav</ShortName>
+							<Path>SFX\Footsteps_18_10C4C929.wem</Path>
+						</File>
+						<File Id="271007764" Language="SFX">
+							<ShortName>Footsteps_12.wav</ShortName>
+							<Path>SFX\Footsteps_12_10C4C929.wem</Path>
+						</File>
+						<File Id="318169327" Language="SFX">
+							<ShortName>Footsteps_1.wav</ShortName>
+							<Path>SFX\Footsteps_1_10C4C929.wem</Path>
+						</File>
+						<File Id="362562475" Language="SFX">
+							<ShortName>Footsteps_16.wav</ShortName>
+							<Path>SFX\Footsteps_16_10C4C929.wem</Path>
+						</File>
+						<File Id="390371073" Language="SFX">
+							<ShortName>Footsteps_15.wav</ShortName>
+							<Path>SFX\Footsteps_15_10C4C929.wem</Path>
+						</File>
+						<File Id="457237481" Language="SFX">
+							<ShortName>Footsteps_10.wav</ShortName>
+							<Path>SFX\Footsteps_10_10C4C929.wem</Path>
+						</File>
+						<File Id="499328222" Language="SFX">
+							<ShortName>Footsteps_13.wav</ShortName>
+							<Path>SFX\Footsteps_13_10C4C929.wem</Path>
+						</File>
+						<File Id="522800362" Language="SFX">
+							<ShortName>Footsteps_11.wav</ShortName>
+							<Path>SFX\Footsteps_11_10C4C929.wem</Path>
+						</File>
+						<File Id="635013606" Language="SFX">
+							<ShortName>Footsteps_5.wav</ShortName>
+							<Path>SFX\Footsteps_5_10C4C929.wem</Path>
+						</File>
+						<File Id="673533223" Language="SFX">
+							<ShortName>Footsteps_17.wav</ShortName>
+							<Path>SFX\Footsteps_17_10C4C929.wem</Path>
+						</File>
+						<File Id="682565668" Language="SFX">
+							<ShortName>Footsteps_2.wav</ShortName>
+							<Path>SFX\Footsteps_2_10C4C929.wem</Path>
+						</File>
+						<File Id="796812552" Language="SFX">
+							<ShortName>Footsteps_7.wav</ShortName>
+							<Path>SFX\Footsteps_7_10C4C929.wem</Path>
+						</File>
+						<File Id="891434020" Language="SFX">
+							<ShortName>Footsteps_3.wav</ShortName>
+							<Path>SFX\Footsteps_3_10C4C929.wem</Path>
+						</File>
+						<File Id="907167137" Language="SFX">
+							<ShortName>Footsteps_6.wav</ShortName>
+							<Path>SFX\Footsteps_6_10C4C929.wem</Path>
+						</File>
+						<File Id="1032784857" Language="SFX">
+							<ShortName>Footsteps_8.wav</ShortName>
+							<Path>SFX\Footsteps_8_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="40965069" Name="Play_Forcep" ObjectPath="\Events\SFX\Play_Forcep" DurationType="OneShot" DurationMin="3." DurationMax="3.">
+					<IncludedMemoryFiles>
+						<File Id="583619894" Language="SFX">
+							<ShortName>ForcepsPickUp.wav</ShortName>
+							<Path>SFX\ForcepsPickUp_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="505995252" Name="Play_HeartRateBeep" ObjectPath="\Events\SFX\Play_HeartRateBeep" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="883463194" Language="SFX">
+							<ShortName>HeartRateBeep.wav</ShortName>
+							<Path>SFX\HeartRateBeep_482240BA.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2934479122" Name="Play_HoverSelection" ObjectPath="\Events\SFX\Play_HoverSelection" DurationType="OneShot" DurationMin="3." DurationMax="3.">
+					<IncludedMemoryFiles>
+						<File Id="369537829" Language="SFX">
+							<ShortName>HoverSelection.wav</ShortName>
+							<Path>SFX\HoverSelection_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1884359551" Name="Play_MessageBeep" ObjectPath="\Events\SFX\Play_MessageBeep" DurationType="OneShot" DurationMin="1.124989" DurationMax="1.124989">
+					<IncludedMemoryFiles>
+						<File Id="944240973" Language="SFX">
+							<ShortName>MessageBeeps.wav</ShortName>
+							<Path>SFX\MessageBeeps_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1436037269" Name="Play_OptionSelection" ObjectPath="\Events\SFX\Play_OptionSelection" DurationType="OneShot" DurationMin="3." DurationMax="3.">
+					<IncludedMemoryFiles>
+						<File Id="945095580" Language="SFX">
+							<ShortName>SelectOption.wav</ShortName>
+							<Path>SFX\SelectOption_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3478119831" Name="Play_SprayPaint" ObjectPath="\Events\SFX\Play_SprayPaint" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="843097210" Language="SFX">
+							<ShortName>SprayPaint.wav</ShortName>
+							<Path>SFX\SprayPaint_2B5C5A5A.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1607071611" Name="Play_SprayPaintRefill" ObjectPath="\Events\SFX\Play_SprayPaintRefill" DurationType="OneShot" DurationMin="2." DurationMax="2.">
+					<IncludedMemoryFiles>
+						<File Id="89536666" Language="SFX">
+							<ShortName>SprayPaintRefill.wav</ShortName>
+							<Path>SFX\SprayPaintRefill_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2595915899" Name="Play_StreetAmbiance" ObjectPath="\Events\SFX\Play_StreetAmbiance" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="947906409" Language="SFX">
+							<ShortName>StreetAmbiance.wav</ShortName>
+							<Path>SFX\StreetAmbiance_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3943614907" Name="Play_Success" ObjectPath="\Events\SFX\Play_Success" DurationType="OneShot" DurationMin="1.804538" DurationMax="1.804538">
+					<IncludedMemoryFiles>
+						<File Id="945095580" Language="SFX">
+							<ShortName>SelectOption.wav</ShortName>
+							<Path>SFX\SelectOption_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3117172052" Name="Play_UnansweredDialogue" ObjectPath="\Events\SFX\Play_UnansweredDialogue" DurationType="OneShot" DurationMin="1.5" DurationMax="1.5">
+					<IncludedMemoryFiles>
+						<File Id="54667125" Language="SFX">
+							<ShortName>UnansweredDialogue.wav</ShortName>
+							<Path>SFX\UnansweredDialogue_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="3840895155" Name="DialoguePitch" ObjectPath="\Game Parameters\Default Work Unit\DialoguePitch"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3362015489">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="988953028" Name="SFXVolume" ObjectPath="\Game Parameters\Default Work Unit\SFXVolume"/>
+				<GameParameter Id="2918011349" Name="MasterVolume" ObjectPath="\Game Parameters\Default Work Unit\MasterVolume"/>
+				<GameParameter Id="3043206523" Name="BGMVolume" ObjectPath="\Game Parameters\Default Work Unit\BGMVolume"/>
+				<GameParameter Id="4133753255" Name="MISCVolume" ObjectPath="\Game Parameters\Default Work Unit\MISCVolume"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="2372668644">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Music\Play_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="55532573" Language="SFX">
+							<ShortName>dynaAudio_MainMelody.wav</ShortName>
+							<Path>SFX\dynaAudio_MainMelody_D79FB2B7.wem</Path>
+						</File>
+						<File Id="81195584" Language="SFX">
+							<ShortName>mainTheme.wav</ShortName>
+							<Path>SFX\mainTheme_D79FB2B7.wem</Path>
+						</File>
+						<File Id="173839455" Language="SFX">
+							<ShortName>BGM_LVL1_05052022.wav</ShortName>
+							<Path>SFX\BGM_LVL1_05052022_D79FB2B7.wem</Path>
+						</File>
+						<File Id="421149708" Language="SFX">
+							<ShortName>dynaAudio_BassLine.wav</ShortName>
+							<Path>SFX\dynaAudio_BassLine_D79FB2B7.wem</Path>
+						</File>
+						<File Id="517763713" Language="SFX">
+							<ShortName>dynaAudio_Rhythm-003.wav</ShortName>
+							<Path>SFX\dynaAudio_Rhythm-003_D79FB2B7.wem</Path>
+						</File>
+						<File Id="592913358" Language="SFX">
+							<ShortName>dynaAudio_BaseLayer.wav</ShortName>
+							<Path>SFX\dynaAudio_BaseLayer_D79FB2B7.wem</Path>
+						</File>
+						<File Id="878720904" Language="SFX">
+							<ShortName>dynaAudio_Rhythm-004.wav</ShortName>
+							<Path>SFX\dynaAudio_Rhythm-004_D79FB2B7.wem</Path>
+						</File>
+						<File Id="931946832" Language="SFX">
+							<ShortName>underwater.wav</ShortName>
+							<Path>SFX\underwater_D79FB2B7.wem</Path>
+						</File>
+						<File Id="933972155" Language="SFX">
+							<ShortName>dynaAudio_Rhythm-002.wav</ShortName>
+							<Path>SFX\dynaAudio_Rhythm-002_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1027694946" Language="SFX">
+							<ShortName>hollow.wav</ShortName>
+							<Path>SFX\hollow_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CFD3CFB6-59C5-420D-997C-B793B03D2CB1}">
+							<Media>
+								<File Id="421149708"/>
+								<File Id="592913358"/>
+								<File Id="933972155"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{4FF07AB9-BCD7-4BEB-9C3F-0C8357F8B384}">
+							<Media>
+								<File Id="421149708"/>
+								<File Id="517763713"/>
+								<File Id="592913358"/>
+								<File Id="878720904"/>
+								<File Id="933972155"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0311828A-5327-42FC-B666-B6C79ACA1D79}">
+							<Media>
+								<File Id="55532573"/>
+								<File Id="421149708"/>
+								<File Id="592913358"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{ED21BD36-9FF1-463B-8C1E-6F5F731243BD}">
+							<Media>
+								<File Id="55532573"/>
+								<File Id="421149708"/>
+								<File Id="517763713"/>
+								<File Id="592913358"/>
+								<File Id="878720904"/>
+								<File Id="933972155"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E5948AA8-1FB3-4EF4-8609-6C8752DD79A8}">
+							<Media>
+								<File Id="173839455"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{BE011FE6-F32E-45CD-BA23-671E5B245E91}">
+							<Media>
+								<File Id="81195584"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{ADF9AC89-3C39-4E81-A75F-EC790F9B75D1}">
+							<Media>
+								<File Id="931946832"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7707CFC5-3F2E-487A-A4FB-CF011DADFB9E}">
+							<Media>
+								<File Id="1027694946"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="Music" ObjectPath="\States\Default Work Unit\Music" GUID="{FF95C29F-309B-4410-A0F2-93D454D45EA8}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Music\None" GUID="{899ACCAE-2D5E-472F-9F57-244B032C71F3}"/>
+						<State Id="3107259434" Name="Nuetral" ObjectPath="\States\Default Work Unit\Music\Nuetral" GUID="{CFD3CFB6-59C5-420D-997C-B793B03D2CB1}"/>
+						<State Id="3051750219" Name="Counter" ObjectPath="\States\Default Work Unit\Music\Counter" GUID="{0311828A-5327-42FC-B666-B6C79ACA1D79}"/>
+						<State Id="3031913866" Name="Amped" ObjectPath="\States\Default Work Unit\Music\Amped" GUID="{4FF07AB9-BCD7-4BEB-9C3F-0C8357F8B384}"/>
+						<State Id="2510516222" Name="Full" ObjectPath="\States\Default Work Unit\Music\Full" GUID="{ED21BD36-9FF1-463B-8C1E-6F5F731243BD}"/>
+						<State Id="3604647259" Name="MainMenu" ObjectPath="\States\Default Work Unit\Music\MainMenu" GUID="{E5948AA8-1FB3-4EF4-8609-6C8752DD79A8}"/>
+						<State Id="2213237662" Name="Underwater" ObjectPath="\States\Default Work Unit\Music\Underwater" GUID="{ADF9AC89-3C39-4E81-A75F-EC790F9B75D1}"/>
+						<State Id="478387010" Name="InTheLab" ObjectPath="\States\Default Work Unit\Music\InTheLab" GUID="{BE011FE6-F32E-45CD-BA23-671E5B245E91}"/>
+						<State Id="815678804" Name="Hollow" ObjectPath="\States\Default Work Unit\Music\Hollow" GUID="{7707CFC5-3F2E-487A-A4FB-CF011DADFB9E}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

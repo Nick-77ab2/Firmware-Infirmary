@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F56F0949-8EB1-407E-BA8F-8D0E9D307FCD}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{F56F0949-8EB1-407E-BA8F-8D0E9D307FCD}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Music" ID="{C0E19DD5-F577-4AA3-B32A-6C938D39446F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Music" ID="{84F73DEE-5422-43C0-A5B4-C10FC736AC77}" WorkUnitID="{DC14AF6E-7CAA-4801-A3AB-1597BD617971}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="SFX" ID="{DCBC0AB1-CB67-4C3C-BA14-3D0E89044BBD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_UnansweredDialogue" ID="{02384A16-7C2C-40CF-B201-182F33FB1E74}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Doorbell" ID="{7175952F-F644-417A-AB55-138AD778E7EE}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SprayPaintRefill" ID="{63D09B97-8536-4233-B57B-46586955BD67}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Crackle" ID="{23870884-EF2B-4306-8E2C-21508EF0EAC7}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SprayPaint" ID="{AF0B8921-D1A3-4410-AE84-CB6297F4AFB6}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Drill" ID="{05C3ECA5-4758-44EF-8642-FC0F86A6656D}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DayEnd" ID="{F3B8760A-0E43-4525-B522-11BAEF2B3CD3}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_OptionSelection" ID="{D4E19E73-7284-459B-AFAE-3EAFDBF51902}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_HeartRateBeep" ID="{CE4CD762-E468-45DC-9594-87DF0065B350}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_HoverSelection" ID="{807FD66C-AB32-47C4-9DAE-6F43608C2464}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_StreetAmbiance" ID="{423AEDBC-BC22-48C4-97AE-89FAB1656DDC}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Forcep" ID="{A6F46E83-80EC-4953-A3C8-4A079A044E47}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Footsteps" ID="{7BAF4B53-698A-4978-A8B8-8C9FD985189C}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_MessageBeep" ID="{B81EA619-9732-4AB1-B81C-F858379A02B3}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Success" ID="{CCFED727-08FA-4C71-9952-223C9257E2B7}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DayStart" ID="{94949747-1B3C-4D08-9E4C-B4E95980268F}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Error" ID="{972F0481-2E61-4E17-BF7E-B7E590242293}" WorkUnitID="{5901C347-7B6F-4CB5-A8BD-C18B99AFB487}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

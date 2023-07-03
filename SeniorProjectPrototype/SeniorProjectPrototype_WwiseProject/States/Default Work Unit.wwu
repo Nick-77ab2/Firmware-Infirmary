@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4BF80A5B-74E5-43D5-AF31-F02C79DF23FC}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{4BF80A5B-74E5-43D5-AF31-F02C79DF23FC}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Music" ID="{FF95C29F-309B-4410-A0F2-93D454D45EA8}">
+					<ChildrenList>
+						<State Name="None" ID="{899ACCAE-2D5E-472F-9F57-244B032C71F3}"/>
+						<State Name="Nuetral" ID="{CFD3CFB6-59C5-420D-997C-B793B03D2CB1}"/>
+						<State Name="Counter" ID="{0311828A-5327-42FC-B666-B6C79ACA1D79}"/>
+						<State Name="Amped" ID="{4FF07AB9-BCD7-4BEB-9C3F-0C8357F8B384}"/>
+						<State Name="Full" ID="{ED21BD36-9FF1-463B-8C1E-6F5F731243BD}"/>
+						<State Name="MainMenu" ID="{E5948AA8-1FB3-4EF4-8609-6C8752DD79A8}"/>
+						<State Name="Underwater" ID="{ADF9AC89-3C39-4E81-A75F-EC790F9B75D1}"/>
+						<State Name="InTheLab" ID="{BE011FE6-F32E-45CD-BA23-671E5B245E91}"/>
+						<State Name="Hollow" ID="{7707CFC5-3F2E-487A-A4FB-CF011DADFB9E}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

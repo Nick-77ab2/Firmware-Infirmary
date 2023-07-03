@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Top
+  - Middle
+  - Bottom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Raycast
+  - LightUp
+  - Player
+  - MicroGame
+  - SecondaryPostProcess
+  - No Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2877291791
+    locked: 0
+  - name: Arm
+    uniqueID: 323654377
+    locked: 0
+  - name: Painted
+    uniqueID: 1577956397
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

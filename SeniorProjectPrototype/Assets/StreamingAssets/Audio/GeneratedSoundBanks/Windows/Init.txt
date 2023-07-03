@@ -1,0 +1,31 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	478387010	InTheLab	Music			
+	748895195	None	Music			
+	815678804	Hollow	Music			
+	2213237662	Underwater	Music			
+	2510516222	Full	Music			
+	3031913866	Amped	Music			
+	3051750219	Counter	Music			
+	3107259434	Nuetral	Music			
+	3604647259	MainMenu	Music			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	988953028	SFXVolume			\Default Work Unit\SFXVolume	
+	2918011349	MasterVolume			\Default Work Unit\MasterVolume	
+	3043206523	BGMVolume			\Default Work Unit\BGMVolume	
+	4133753255	MISCVolume			\Default Work Unit\MISCVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3009933565	BGMBus			\Default Work Unit\Master Audio Bus\BGMBus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3803850708	SFXBus			\Default Work Unit\Master Audio Bus\SFXBus	
+	4265751065	MISCBus			\Default Work Unit\Master Audio Bus\MISCBus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	2868300805	Controller_Headphones	Controller Headphones			
+	3859886410	System	System			
+

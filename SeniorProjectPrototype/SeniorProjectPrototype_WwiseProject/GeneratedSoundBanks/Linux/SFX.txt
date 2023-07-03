@@ -1,0 +1,63 @@
+Event	ID	Name			Wwise Object Path	Notes
+	40965069	Play_Forcep			\SFX\Play_Forcep	
+	505995252	Play_HeartRateBeep			\SFX\Play_HeartRateBeep	
+	784403203	Play_DayEnd			\SFX\Play_DayEnd	
+	1436037269	Play_OptionSelection			\SFX\Play_OptionSelection	
+	1607071611	Play_SprayPaintRefill			\SFX\Play_SprayPaintRefill	
+	1884359551	Play_MessageBeep			\SFX\Play_MessageBeep	
+	1941108153	Play_Crackle			\SFX\Play_Crackle	
+	2595915899	Play_StreetAmbiance			\SFX\Play_StreetAmbiance	
+	2713813216	Play_Error			\SFX\Play_Error	
+	2934479122	Play_HoverSelection			\SFX\Play_HoverSelection	
+	3117172052	Play_UnansweredDialogue			\SFX\Play_UnansweredDialogue	
+	3213994200	Play_DayStart			\SFX\Play_DayStart	
+	3478119831	Play_SprayPaint			\SFX\Play_SprayPaint	
+	3778958205	Play_Doorbell			\SFX\Play_Doorbell	
+	3854155799	Play_Footsteps			\SFX\Play_Footsteps	
+	3943614907	Play_Success			\SFX\Play_Success	
+	4076093797	Play_Drill			\SFX\Play_Drill	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3840895155	DialoguePitch			\Default Work Unit\DialoguePitch	
+
+Effect plug-ins	ID	Name	Type				Notes
+	81740941	Wwise Gain (Custom)	Wwise Gain			
+	544152736	Pumping_and_Breathing_1 (Custom)	Wwise Compressor			
+	625345713	Chorus_Like (Custom)	Wwise Flanger			
+	632825534	New_Wwise_Stereo_Delay	Wwise Stereo Delay			
+	2652646462	Dialog_Leveler_Soft	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	4878114	Footsteps_14	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_14		64664
+	30527009	Footsteps_4	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_4		55598
+	54667125	UnansweredDialogue	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\UnansweredDialogue_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UnansweredDialogue		264664
+	89536666	SprayPaintRefill	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\SprayPaintRefill_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayPaintRefill		352864
+	144074960	Footsteps_9	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_9		54152
+	162910677	DayStart	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\DayStart_400F1E20.wem		\Actor-Mixer Hierarchy\Default Work Unit\DayStart		882064
+	162946794	Footsteps_18	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_18_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_18		50784
+	214544285	Shop_Doorbell_V1	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Shop_Doorbell_V1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shop_Doorbell_V1		529264
+	261651573	DayEnd	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\DayEnd_0EFB48E5.wem		\Actor-Mixer Hierarchy\Default Work Unit\DayEnd		882064
+	271007764	Footsteps_12	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_12		63530
+	318169327	Footsteps_1	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_1		62964
+	362562475	Footsteps_16	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_16		57864
+	369537829	HoverSelection	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\HoverSelection_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\HoverSelection		529264
+	390371073	Footsteps_15	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_15		60130
+	457237481	Footsteps_10	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_10		56732
+	499328222	Footsteps_13	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_13		54464
+	522800362	Footsteps_11	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_11		62396
+	583619894	ForcepsPickUp	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\ForcepsPickUp_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ForcepsPickUp		529264
+	633681790	RadioCrackle	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\RadioCrackle_38454FF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\RadioCrackle		1587728
+	635013606	Footsteps_5	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_5		78976
+	673533223	Footsteps_17	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_17		65796
+	682565668	Footsteps_2	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_2		54464
+	796812552	Footsteps_7	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_7		68064
+	843097210	SprayPaint	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\SprayPaint_2B5C5A5A.wem		\Actor-Mixer Hierarchy\Default Work Unit\SprayPaint		361084
+	883463194	HeartRateBeep	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\HeartRateBeep_482240BA.wem		\Actor-Mixer Hierarchy\Default Work Unit\HeartRateBeep		680528
+	891434020	Footsteps_3	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_3		58996
+	907167137	Footsteps_6	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_6		66930
+	944240973	MessageBeeps	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\MessageBeeps_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MessageBeeps		198512
+	944764722	Drill	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Drill_654992D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Drill		194984
+	945095580	SelectOption	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\SelectOption_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SelectOption		529264
+	947906409	StreetAmbiance	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\StreetAmbiance_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\StreetAmbiance		24872464
+	1032784857	Footsteps_8	E:\Documents\Game_Projects\FirmwareInfirmary\SeniorProjectPrototype\SeniorProjectPrototype_WwiseProject\.cache\Linux\SFX\Footsteps_8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps_8		68064
+

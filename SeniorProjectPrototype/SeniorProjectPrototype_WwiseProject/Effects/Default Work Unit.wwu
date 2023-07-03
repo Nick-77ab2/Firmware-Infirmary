@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7C2560EE-1D03-41F3-9F8D-4F195CDE7E6E}" SchemaVersion="103">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{7C2560EE-1D03-41F3-9F8D-4F195CDE7E6E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="New_iZotope_Hybrid_Reverb" ID="{127FEB2A-427B-4B3E-AEC0-6319292CF413}" PluginName="iZotope Hybrid Reverb" CompanyID="259" PluginID="2" PluginType="3">
+					<PropertyList>
+						<Property Name="DecayLowRatio" Type="Real32" Value="1.5"/>
+						<Property Name="DecayTime" Type="Real32" Value="1.7"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="New_Wwise_Stereo_Delay" ID="{72755184-9DDF-4519-AB98-DAE89131BD58}" PluginName="Wwise Stereo Delay" CompanyID="0" PluginID="135" PluginType="3"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

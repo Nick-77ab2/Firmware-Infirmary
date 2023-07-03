@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a5d9615d1ceb24493d4c50430f5a81, type: 3}
+  m_Name: 7D83CCA8-487D-4D2A-89C7-5F313FA0BA8B
+  m_EditorClassIdentifier: 
+  objectName: BGMVolume
+  id: 3043206523
+  guid: 7D83CCA8-487D-4D2A-89C7-5F313FA0BA8B
